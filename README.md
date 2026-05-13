@@ -91,11 +91,13 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ```
 
 ### Dataset Information
-<img width="458" height="288" alt="image" src="https://github.com/user-attachments/assets/b6e46819-03dc-4398-bd42-466cdbb1fbde" />
+<img width="186" height="283" alt="Screenshot 2026-05-13 092235" src="https://github.com/user-attachments/assets/554290ea-bd96-4f64-85e5-e604b358e591" />
+
 
 
 ### OUTPUT
-<img width="1751" height="780" alt="Screenshot 2026-04-20 144434" src="https://github.com/user-attachments/assets/e28c520a-b983-472f-92fe-65e0b1fe8cad" />
+<img width="835" height="702" alt="image" src="https://github.com/user-attachments/assets/4b4bd3ea-629e-478b-8963-f516da0a3928" />
+
 
 ### Training Loss Vs Iteration Plot
 Include your plot here
